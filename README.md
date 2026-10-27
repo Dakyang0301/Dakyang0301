@@ -11,7 +11,6 @@
 | [real-estate-voice-agent](https://github.com/Dakyang0301/real-estate-voice-agent) | Inbound AI phone agent for real estate agencies: answers calls, captures leads, books appointments into GoHighLevel | Python · FastAPI · Vapi · GoHighLevel |
 | [n8n-cold-email-outreach](https://github.com/Dakyang0301/n8n-cold-email-outreach) | Multi-industry cold email system: 3-step sequence, reply detection, Google Sheets tracking | n8n · Gmail · Google Sheets · JavaScript |
 | [the-alchemists-path](https://github.com/Dakyang0301/the-alchemists-path) | Multi-page course website with assessment/quiz engine, course levels, and checkout | HTML · CSS · JavaScript · GoHighLevel |
-| [automation-tech-stack](https://github.com/Dakyang0301/automation-tech-stack) | Showcase of the tools behind my automation builds | Vapi · n8n · ElevenLabs |
 | [Portfolio site](https://github.com/Dakyang0301/Joy-Irine-Barnayha-Automation-AI-Architect) | My live portfolio, continuously improved | HTML · CSS · JavaScript · Vercel |
 
 ## Automation builds
